@@ -38,6 +38,7 @@ design & usability | written in coffeescript
 
 #### User reviews
 > Atom is great. It just works they way it supposed to work.
+
  _-Octocat-_ :octocat:
 
 > Atom is really beautiful and great.

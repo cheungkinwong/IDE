@@ -1,4 +1,4 @@
-Choosing the right IDE
+# Choosing the right IDE
 
 ## Criteria
 ..* free
@@ -6,5 +6,9 @@ Choosing the right IDE
 ..* light
 ..* customizable
 ..* languages
+
+Atom
+
+https://atom.io/
 
 

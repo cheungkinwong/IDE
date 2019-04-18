@@ -2,6 +2,10 @@
 ### ATOM
 
 #### Choosing the right IDE
+1. Visual Studio Code
+2. NetBeans
+3. Atom
+4. Sublime
 
 #### Criteria
 * free _(open source)_

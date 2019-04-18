@@ -12,8 +12,8 @@
 * ease of use 
 * light
 * customizable 
-  * packages
-  * themes
+  * _packages_
+  * _themes_
 * languages
   * php
   * javascript
@@ -29,11 +29,25 @@
 
 [**My choice of IDE is ATOM**](https://atom.io/)
 
+> Atom is great. It just works they way it supposed to work. 
+_"Octocat"_ :octocat:
+
 **PROS** | **CONS**
 ---|---
 extensibility  | Start up slower 
 active community | can freeze
 design & usability | written in coffeescript
+
+#### Conclusion
+
+- [x] Is it Free?
+- [x] Is it easy to use?
+- [ ] Is it light?
+- [x] Does it support a lot of languages?
+
+
+
+
 
 
 

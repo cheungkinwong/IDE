@@ -60,10 +60,10 @@ design & usability | written in coffeescript
 
 #### Conclusion
 
-- [x] Is it Free?
-- [x] Is it easy to use?
-- [ ] Is it light? (fast)
-- [x] Does it support a lot of languages?
+- [x] Is it **Free**?
+- [x] Is it **easy** to use?
+- [ ] Is it **light**? (fast)
+- [x] Does it support a lot of **languages**?
 
 
 

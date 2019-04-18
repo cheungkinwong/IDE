@@ -10,18 +10,14 @@
 * customizable
 * languages
 
-[My choice of IDE is **ATOM**](https://atom.io/)
+[**My choice of IDE is ATOM**](https://atom.io/)
 
-#### PROS
+**PROS** | **CONS**
+___________________
 
-1. extensibility _(packages  & themes)_
-2. active community _(over 3500 packages)_
-3. design & usability of the editor _(first time programmer could pick up Atom with ease)_
+1. extensibility  | 1. Atom's startup time is noticeably slower than other text editors
+2. active community | 2. once in awhile the editor freezes during usage
+3. design & usability of the editor | 3. most of the core is written in coffeescript
 
-#### CON
-
-1. Atom's startup time is noticeably slower than other text editors
-2. once in awhile the editor freezes during usage
-3. most of the core is written in coffeescript, but the team at Github is transitioning to ES6 (the modern edition of javascript)
 
 

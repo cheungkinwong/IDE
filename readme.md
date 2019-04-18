@@ -84,20 +84,20 @@ User friendly interface | not widly used
 pretty stable | mostly used for java
 
 #### User reviews
-> NetBeans is used for development purposes in our organization by the IT department. At first, we used a different IDE for software development like Sublime Editor and Eclipse but I made a decision to use Netbeans as it is fast and has many features which a developer needs no matter which technology he/she is working on.
+>  Although it's a good product, it has been through a number of major evolutionary stages. Its major advantages are that since it was a production from the very people who invented Java (Sun), it should in theory anticipate improvements to Java and support Java-specific features. To a certain degree, it does, although Sun could have done more, especially when it came to JavaBean development and JSFWSYWIG design, which are 2 aspects where NetBeans does have an edge on Eclipse to begin with. Because NetBeans doesn't attempt to be all things to all people, it does tend to provide better support for "grunt" development, whereas Eclipse is more my cup of tea, since I'm more prone to develop systems with multiple components interacting in complex ways and non-Java components.
 
- _-Piyush Jain, Network Engineer-_  <br>
+ _-Mashrafi Mohammad, 10 years of Computer experience-_  <br>
 
 
 #### Conclusion
 
 - [x] Is it **Free**?
 - [x] Is it **easy** to use?
-- [x] Is it **customizable**?
-- [x] Does it support a lot of **languages**?
+- [ ] Is it **customizable**?
+- [ ] Does it support a lot of **languages**?
 
-Atom's easy of use will allow me to be very productive while keeping frustration minimal. <br>
-While it's customization options will ensure it won't be absolete in the near future.
+NetBean doesn't seem to have much support beyond Java. <br>
+While there are still things lacking it might be worthwile in the future.
 
 
 

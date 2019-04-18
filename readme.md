@@ -1,11 +1,9 @@
-## ATOM
+## IDE
 
-![Atom logo](https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg)
-
-#### Choosing the right IDE
-1. Visual Studio Code
-2. NetBeans
-3. Atom
+#### Researching IDE
+1. Atom
+2. NetBean
+3. Visual Studio Code
 4. Sublime
 
 #### Criteria
@@ -25,10 +23,13 @@
   * C
   * C++
   * Coffeescript
-  * etc. 
+  * etc.
+  
+## 1. ATOM
 
-[**My choice of IDE is ATOM**](https://atom.io/)
+![Atom logo](https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg)
 
+[**Download**](https://atom.io/)
 
 **PROS** | **CONS**
 ---|---
@@ -64,9 +65,11 @@ _-David Nagli, CEO at Securlio (2017-present)-_ :+1:
 
 - [x] Is it **Free**?
 - [x] Is it **easy** to use?
+- [x] Is it **customizable**?
 - [x] Does it support a lot of **languages**?
-
 
 Atom's easy of use will allow me to be very productive while keeping frustration minimal. <br>
 While it's customization options will ensure it won't be absolete in the near future.
+
+
 

@@ -1,8 +1,7 @@
 ![Atom logo](https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg)
+Alt-H1 ATOM
 
-# ATOM
-
-## Choosing the right IDE
+Alt-H2 Choosing the right IDE
 
 ### Criteria
 ..* free

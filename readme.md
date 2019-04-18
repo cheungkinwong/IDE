@@ -4,13 +4,13 @@
 #### Choosing the right IDE
 
 #### Criteria
-1. free _(open source)_
-2. ease of use 
-3. light
-4. customizable 
+* free _(open source)_
+* ease of use 
+* light
+* customizable 
   * packages
   * themes
-5. languages
+* languages
   * php
   * javascript
   * HTML

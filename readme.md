@@ -1,5 +1,6 @@
+## ATOM
+
 ![Atom logo](https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg)
-### ATOM
 
 #### Choosing the right IDE
 1. Visual Studio Code

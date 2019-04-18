@@ -4,11 +4,11 @@
 #### Choosing the right IDE
 
 #### Criteria
-..* free
-..* ease of use
-..* light
-..* customizable
-..* languages
+* free
+* ease of use
+* light
+* customizable
+* languages
 
 [My choice of IDE is **ATOM**](https://atom.io/)
 

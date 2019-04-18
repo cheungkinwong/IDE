@@ -1,9 +1,9 @@
 ![Atom logo](https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg)
-Alt-H1 ATOM
+### ATOM
 
-Alt-H2 Choosing the right IDE
+#### Choosing the right IDE
 
-### Criteria
+#### Criteria
 ..* free
 ..* ease of use
 ..* light
@@ -12,8 +12,16 @@ Alt-H2 Choosing the right IDE
 
 [My choice of IDE is **ATOM**](https://atom.io/)
 
-### PROS
+#### PROS
 
-1. 
+1. extensibility _(packages  & themes)_
+2. active community _(over 3500 packages)_
+3. design & usability of the editor _(first time programmer could pick up Atom with ease)_
+
+#### CON
+
+1. Atom's startup time is noticeably slower than other text editors
+2. once in awhile the editor freezes during usage
+3. most of the core is written in coffeescript, but the team at Github is transitioning to ES6 (the modern edition of javascript)
 
 

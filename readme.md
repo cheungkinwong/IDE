@@ -29,8 +29,6 @@
 
 [**My choice of IDE is ATOM**](https://atom.io/)
 
-> Atom is great. It just works they way it supposed to work. 
-_"Octocat"_ :octocat:
 
 **PROS** | **CONS**
 ---|---
@@ -38,12 +36,35 @@ extensibility  | Start up slower
 active community | can freeze
 design & usability | written in coffeescript
 
+> Atom is great. It just works they way it supposed to work.
+> _-Octocat-_ :octocat:
+
+
+> Atom is really beautiful and great.
+> One of my favorite features are snip-its. 
+> For example if you are editing HTML and you type in the words html and press space it will replace it with all of this:
+
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+        
+    </body>
+</html>
+```
+
+
 #### Conclusion
 
 - [x] Is it Free?
 - [x] Is it easy to use?
-- [ ] Is it light?
+- [ ] Is it light? (fast)
 - [x] Does it support a lot of languages?
+
 
 
 

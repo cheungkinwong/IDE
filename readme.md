@@ -10,7 +10,6 @@
 #### Criteria
 * free _(open source)_
 * ease of use 
-* light
 * customizable 
   * _packages_
   * _themes_
@@ -64,7 +63,6 @@ _-David Nagli, CEO at Securlio (2017-present)-_ :+1:
 
 - [x] Is it **Free**?
 - [x] Is it **easy** to use?
-- [ ] Is it **light**? (fast)
 - [x] Does it support a lot of **languages**?
 
 Atom's easy of use will allow me to be very productive while keeping frustration to be minimal.

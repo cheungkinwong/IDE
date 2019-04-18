@@ -26,7 +26,7 @@
   * Coffeescript
   * etc. 
 
-[**My choice of IDE is ATOM**](https://atom.io/ target:"_blank")
+[**My choice of IDE is ATOM**](https://atom.io/)
 
 
 **PROS** | **CONS**

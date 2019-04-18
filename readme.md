@@ -65,6 +65,7 @@ _-David Nagli, CEO at Securlio (2017-present)-_ :+1:
 - [x] Is it **easy** to use?
 - [x] Does it support a lot of **languages**?
 
+
 Atom's easy of use will allow me to be very productive while keeping frustration minimal.
 While it's customization options will ensure it won't be absolete in the near future.
 

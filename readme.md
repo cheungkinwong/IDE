@@ -4,7 +4,6 @@
 1. Atom
 2. NetBean
 3. Visual Studio Code
-4. Sublime
 
 #### Criteria
 * free _(open source)_
@@ -32,8 +31,8 @@
 [**Download**](https://atom.io/)
 
 **PROS** | **CONS**
----|---
-extensibility  | Start up slower 
+:---:|:---:
+extensibility  | slow start up 
 active community | can freeze
 design & usability | written in coffeescript
 
@@ -46,7 +45,7 @@ design & usability | written in coffeescript
 > One of my favorite features are snip-its. <br>
 > For example if you are editing HTML and you type in the words html and press space it will replace it with all of this:
  
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -78,9 +77,9 @@ While it's customization options will ensure it won't be absolete in the near fu
 [**Download**](https://netbeans.org/)
 
 **PROS** | **CONS**
----|---
+:---:|:---:
 out-of-box exprience  | amount of plug-ins 
-User friendly interface | not widly used
+user friendly interface | not widly used
 pretty stable | mostly used for java
 
 #### User reviews
@@ -98,6 +97,34 @@ pretty stable | mostly used for java
 
 NetBean doesn't seem to have much support beyond Java. <br>
 While there are still things lacking it might be worthwile in the future.
+
+## 3. Visual Studio Code
+
+![VSC logo](https://process.filestackapi.com/cache=expiry:max/4U4oFsrTA6gCeRprTowH)
+
+[**Download**](https://code.visualstudio.com/)
+
+**PROS** | **CONS**
+:---:|:---:
+extension manager  | uses a lot of memory 
+debugger for chrome | limited search function
+fast performance | lacks some languages
+
+#### User reviews
+>  Overall I was very impressed with VSCode, to the point that I've considered moving to it more permanently. I'm still yet to take that step to fully dive in, but I think it would be a nice holiday project to configure it to meet similar standards I am used to in Sublime. After that, I think I really could stick with it for longer. The Git integration and in-editor debugger are great features that I've struggled with in Sublime but worked almost immediately in VSCode.
+
+ _-Matt Goldspink, Lead engineer-_  <br>
+
+
+#### Conclusion
+
+- [x] Is it **Free**?
+- [x] Is it **easy** to use?
+- [x] Is it **customizable**?
+- [ ] Does it support a lot of **languages**?
+
+Visual Studio Code seems to be very popular and has a big community for support. <br>
+I'll be giving it a try if ATOM doesn't work for me.
 
 
 
